@@ -1,3 +1,3 @@
-# connect_4
+# PixelVerse
 
-A new Flutter project.
+# This is the repository for PixelVerse, a multiplayer games platform.
